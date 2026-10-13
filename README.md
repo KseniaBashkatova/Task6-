@@ -178,10 +178,10 @@ class Program
 ```
 `Результат выполнения:`
 <picture>
-  <img src="https://github.com/KseniaBashkatova/Task2./blob/main/asssets/3.1.1.png">
-  <img src="https://github.com/KseniaBashkatova/Task2./blob/main/asssets/3.1.1.png">
-  <img src="https://github.com/KseniaBashkatova/Task2./blob/main/asssets/3.1.1.png">
-  <img src="https://github.com/KseniaBashkatova/Task2./blob/main/asssets/3.1.1.png">
+  <img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/1.png?raw=true">
+  <img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/4.png?raw=true">
+<img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/2.png?raw=true">
+  <img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/3.png?raw=true">
 </picture>
 
 // ДЕЛАЛИ АРИСТОВ И БАШКАТОВА
