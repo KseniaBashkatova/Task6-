@@ -174,13 +174,20 @@ class Program
         }
     }
 }
-```
+
+
 ```
 `Результат выполнения:`
 <picture>
   <img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/1.png?raw=true">
+</picture>
+
+
+<picture>
   <img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/4.png?raw=true">
+</picture>
 <img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/2.png?raw=true">
+<picture>
   <img src="https://github.com/KseniaBashkatova/Task6-/blob/main/screen/3.png?raw=true">
 </picture>
 
